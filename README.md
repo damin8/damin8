@@ -10,7 +10,9 @@
   </div>
   
   <div align=center>
-
+	
+  📖 **DEVSTU** : [Korea Developer's Community](https://devstu.co.kr/)
+	
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://damin8.github.io/)](https://damin8.github.io/)	 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damindamin8@gmail.com)](mailto:damindamin8@gmail.com) [![Notion Badge](https://img.shields.io/badge/Notion-blue?style=flat-square&logo=Notion&link=https://www.notion.so/Favian-7765a45c95c04347b10fa97c7effe0eb)](https://www.notion.so/Favian-7765a45c95c04347b10fa97c7effe0eb)
 
 </div>
